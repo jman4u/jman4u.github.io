@@ -1,12 +1,12 @@
 body{
     margin: 0;
     padding: 0;
-    background: url("background.png");
+    background: url("background.GIF");
     background-size: cover;
 }
 .box{
     width: 450px;
-    background: rgba(87,89,88,0.4);
+    background: rgba(105, 112, 108, 0.4);
     padding: 40px;
     text-align: center;
     margin: auto;
