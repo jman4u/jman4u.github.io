@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url("background.GIF");
+    background: url("background.jpg");
     background-size: cover;
 }
 .box{
@@ -15,7 +15,7 @@ body{
     font-family: 'Century  Gothic', sans-serif;
 }
 .box-img{
-    border-radius: 50%;
+    border-radius: 100%;
     width: 200px;
     height: 200px;
 }
